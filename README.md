@@ -1,7 +1,10 @@
 ### Description
 
+In this project, I created an interactive dashboard for stakeholders to gain insights into the gaming market using the provided data. The dataset was cleaned and prepared using Pandas in Jupyter Notebook before being imported into Tableau for dashboard creation. You can see a screenshot of the dashboard below, aswell as links to Tableau public.
+
 The objective of this project was to 
-1) Clean the data
+
+1) Load and Clean the data in jupyter notebook
 2) Create a dashboard that provides insights on sales and developer performance by year.
    
 This dashboard allows stakeholders to gain a clear understanding of each Year’s performance for both the Games, and Developers.
